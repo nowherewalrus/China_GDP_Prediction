@@ -62,8 +62,8 @@ china-gdp-prediction/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/china-gdp-prediction.git
-   cd china-gdp-prediction
+   git clone https://github.com/yourusername/china_gdp_prediction.git
+   cd china_gdp_prediction
    ```
 
 2. **Install dependencies**
