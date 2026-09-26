@@ -1,4 +1,3 @@
-# README.md
 
 # 📊 China GDP Prediction Model
 
