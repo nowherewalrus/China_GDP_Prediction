@@ -38,17 +38,7 @@ china-gdp-prediction/
 ├── china_gdp.csv                      # Dataset (1960-2014)
 ├── china_gdp_prediction.py           # Main Python script
 ├── requirements.txt                   # Dependencies
-│
-├── images/                           # Generated visualizations
-│   ├── China_GDP_Scatter.png         # Raw data visualization
-│   ├── Initial_GDP_Prediction.png    # Initial model fit
-│   ├── Optimized_GDP_Fit.png         # Optimized model fit
-│   └── China_GDP_50yr_Projection.png # 50-year projection
-│
-└── outputs/
-    ├── model_parameters.txt          # Saved model parameters
-    └── projections.csv               # Future GDP predictions
-```
+
 
 ## 🚀 Quick Start
 
@@ -219,10 +209,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
